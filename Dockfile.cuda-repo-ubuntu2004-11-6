@@ -1,4 +1,0 @@
-FROM hello-world:latest
-LABEL maintainer="kylehlw@gmail.com"
-WORKDIR /
-wget -q https://developer.download.nvidia.com/compute/cuda/11.6.2/local_installers/cuda-repo-ubuntu2004-11-6-local_11.6.2-510.47.03-1_amd64.deb
